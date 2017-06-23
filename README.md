@@ -1,7 +1,7 @@
 # devdev-adv
 A small Java text adventure with cats and cakes
 
-Attempt to run the adventure.jar file in runnable with:
+Attempt to run the Adventure.jar file with:
 ```java -jar Adventure.jar```
 
 ## Instructions!
